@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marvin Chaves	marvinn@mail.com	@awesome
 
 # THANKS
 
