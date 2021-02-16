@@ -22,4 +22,4 @@ file system.
 Please fork this repository and then isue Pull Request 
 for review.
 ### Copyright
-Git.Training 2021.
+Git.Training 2021. All rights reserved.
